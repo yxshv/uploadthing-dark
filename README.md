@@ -22,4 +22,5 @@ After clicking on "Load Unpacked", select the folder where you have cloned/downl
 
 ## Credit
 
-[`@SaltyAom`](https://twitter.com/saltyAom) on twitter, and this [tweet](https://twitter.com/saltyAom/status/1757302207748489420)
+[`@SaltyAom`](https://twitter.com/saltyAom) on twitter, and their [tweet](https://twitter.com/saltyAom/status/1757302207748489420)
+
