@@ -1,6 +1,6 @@
 # Darkmode for [UploadThing](https://uploadthing.com/)
 
-A chromium extension for providing dark mode for uploadthing
+A chromium extension for providing dark mode for uploadthing for free
 
 ![screenshot of uploadthing in darkmode](https://github.com/yxshv/uploadthing-dark/assets/93475253/12449a33-b09e-48cd-abf6-b1bf9a04cbbd)
 
