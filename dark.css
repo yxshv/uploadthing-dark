@@ -1,0 +1,8 @@
+body {
+  background-color: #121212 !important;
+  filter: invert(92%) hue-rotate(180deg) !important;
+}
+
+img {
+  filter: invert(108%) hue-rotate(-180deg) !important;
+}
