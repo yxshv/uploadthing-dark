@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Upload in dark",
+  "description": "Free dark mode for upload thing",
+  "version": "1.0",
+	"content_scripts": [{
+		"css": ["dark.css"],
+		"matches": [
+			"https://uploadthing.com/*",
+			"https://docs.uploadthing.com/*"
+		]
+	}]
+}
