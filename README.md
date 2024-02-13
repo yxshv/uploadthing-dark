@@ -8,7 +8,7 @@ A chromium extension for providing dark mode for uploadthing (and their docs) fo
 
 ### Arc
 
-If you are using Arc you can use [this boost](https://arc.net/boost/BF2260C6-A0F5-4C39-96CD-0D0C2047081A)
+If you are using Arc you can use [this boost](https://arc.net/boost/430AA893-ED5A-43DB-9F0A-74669CE71617)
 
 ### Other Chromium browsers
 
